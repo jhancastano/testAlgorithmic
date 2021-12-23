@@ -71,7 +71,19 @@ Please use the two attached files as an example. input.txt produces output.txt.
 - |     xoooooooooooooo|
 - **********************
 ```
-# 1 seleccione el archivo
+### 1  ingrese a
+```
+http://test.jhancastano.com/home
+```
+### 2 seleccione el archivo
 cree un archivo con la misma estructura de ejemplo.txt ó descargarlo
-# 2 click en boton dibujar
-# 3 click en boton generar output
+### 3 click en boton dibujar
+### 4 click en boton generar output
+
+# Para localhost
+```
+descargar node
+install angular cli
+npm i 
+ng serve
+```
