@@ -1,1 +1,13 @@
 <p>home works!</p>
+
+<div class="Block">
+    <label id="lbl">txt </label>
+    <input type='file' (change)="fileChanged($event)">
+</div>
+
+<br>
+<button class="btn" (click)="dibujar()">Dibujar</button>
+<div class="container">
+
+    <canvas id="casvas" #canvasEl width={{canvas.width}} height={{canvas.height}}></canvas>
+</div>
