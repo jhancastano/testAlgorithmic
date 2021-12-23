@@ -71,3 +71,7 @@ Please use the two attached files as an example. input.txt produces output.txt.
 - |     xoooooooooooooo|
 - **********************
 ```
+# 1 seleccione el archivo
+cree un archivo con la misma estructura de ejemplo.txt ó descargarlo
+# 2 click en boton dibujar
+# 3 click en boton generar output
